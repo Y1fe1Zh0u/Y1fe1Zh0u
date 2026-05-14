@@ -6,11 +6,3 @@ I am an AI-native product builder focused on AI agents and AI-native organizatio
 My background spans business, technology, growth, creative collaboration, and management. With a master’s degree in accounting, I have a strong understanding of business systems, financial logic, and organizational operations. My technical capabilities allow me to work across product design, prototyping, system development, and AI workflow implementation, while using vibe coding to rapidly validate product ideas.
 
 I currently focus on AI agents, Agent Management, multi-agent collaboration, knowledge systems, and human-AI collaboration. I hope to study the division of labor, collaboration, and governance mechanisms between humans and AI agents in future organizations from the combined perspectives of technology and management.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vibe%20Coding-Product%20Prototyping-black" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Building%20%26%20Research-black" />
-  <img src="https://img.shields.io/badge/Agent%20Management-Long--term%20Focus-black" />
-  <img src="https://img.shields.io/badge/SEO-Growth-black" />
-  <img src="https://img.shields.io/badge/Management-Organizations-black" />
-</p>
