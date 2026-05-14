@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Vibe+Coding+Builder;Exploring+AI+Agents+and+Agent+Management;Building+AI-native+Product+Ideas" />
-</p>
 
 # Yifei Zhou
 
